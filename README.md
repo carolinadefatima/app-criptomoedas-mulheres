@@ -19,7 +19,7 @@ Mulheres iniciantes em finanças e tecnologia que desejam aprender e investir de
 
 ##  Telas do projeto
 
-![Tela de Login](.app-cripptomoedas-mulheres/tela-login.png)
+![Tela de Login](.\Users\Gabri\Documents\app-criptomoedas-mulheres\tela-login.png)
 ![Tela Inicial](./tela-inicial.png)
 ![Tela do Modo Iniciante](./tela-modo-iniciante.png)
 ![Tela de Busca](./tela-buscar.png)
